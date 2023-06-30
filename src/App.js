@@ -1,11 +1,10 @@
-import './App.css';
+import "./App.css";
+import FiveStar from "./components/five_star/FiveStar";
 
 function App() {
-  return (
-    
-    <></>
-
-  );
+  return <>
+    <FiveStar/>
+  </>;
 }
 
 export default App;
