@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: #E5E5E5; */
+    
+}
+
+.main-div{
+    border: 5px solid black;
+    width: 15vw;
+    height: 40vh;
+    margin: 0 auto;
+    margin-top: 3%;
+    background-color: #FFFFFF;
+    box-shadow: 1px 1px 20px 2px darkgrey;
+}
